@@ -1,4 +1,4 @@
-**Cursed Hub Test Version**
+**Cursed Hub Trial Version**
 
 Supported Games:
 
