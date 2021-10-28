@@ -1,4 +1,4 @@
-**Cursed Hub Version 1.0.3c**
+**Cursed Hub Version 1.0.4a**
 
 Supported Games:
 
