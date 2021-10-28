@@ -1,4 +1,4 @@
-**Cursed Hub**
+**Cursed Hub Version 1.0.3c**
 
 Supported Games:
 
@@ -36,7 +36,33 @@ Ninja Legends,
 
 Prison Life,
 
-Project Lazarus
+Project Lazarus,
+
+Bedwars,
+
+Big Paintball,
+
+Booga Booga,
+
+Criminality,
+
+Da Hood,
+
+Fish Game,
+
+Flee The Facility,
+
+Hexa Game,
+
+Jailbreak,
+
+Knife Ability Test,
+
+King Legacy,
+
+Legends Of Speed,
+
+Ro Ghoul
 
 _KEY: https://discord.gg/sN3J2QApwA_
 
