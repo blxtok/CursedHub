@@ -2,7 +2,7 @@
 
 Supported Games:
 
-Pet Simulator X,
+Pet Simulator X[https://www.roblox.com/games/6284583030/Pet-Simulator-X-EVENT],
 
 Murder Mystery 2,
 
