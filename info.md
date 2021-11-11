@@ -76,7 +76,27 @@ Natural Disaster,
 
 Phantom Forces,
 
-Retail Tycoon 2
+Retail Tycoon 2,
+
+Strongest Punch Simulator,
+
+Strongman Simulator,
+
+Survive The Killer,
+
+Those Who Remain,
+
+Tower Of Hell,
+
+Treasure Hunt Simulator,
+
+Westbound,
+
+Build a Boat for Treasure,
+
+Youtube Simulator X,
+
+Zombie Tycoon
 
 _KEY: https://discord.gg/sN3J2QApwA_
 
