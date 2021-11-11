@@ -1,4 +1,4 @@
-**Cursed Hub Version 1.0.5b**
+**Cursed Hub Version 1.0.5c**
 
 Supported Games:
 
@@ -80,4 +80,4 @@ Retail Tycoon 2
 
 _KEY: https://discord.gg/sN3J2QApwA_
 
-_Script: `loadstring(game:HttpGet("https://raw.githubusercontent.com/blxtok/CursedHub/main/login.lua"))()`_
+_Script: `loadstring(game:HttpGet("https://raw.githubusercontent.com/blxtok/CursedHub/main/loader.lua"))()`_
