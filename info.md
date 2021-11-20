@@ -96,7 +96,39 @@ Build a Boat for Treasure,
 
 Youtube Simulator X,
 
-Zombie Tycoon
+Zombie Tycoon,
+
+Anomic,
+
+Blackhawk Rescue Mission 5,
+
+Bubble Gum Simulator,
+
+Decaying Winter,
+
+Encounters,
+
+Factory Simulator,
+
+Horrific Housing,
+
+Military Tycoon,
+
+Notoriety,
+
+Saber Simulator,
+
+True Piece,
+
+Undead Defense Tycoon,
+
+Vesteria,
+
+A universal Time,
+
+Your Bizzare Adventure,
+
+ZOO
 
 _KEY: https://discord.gg/sN3J2QApwA_
 
