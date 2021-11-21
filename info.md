@@ -1,4 +1,4 @@
-**Cursed Hub Version 1.0.6b*
+**Cursed Hub Version 1.0.6c*
 
 Supported Games:
 
@@ -128,7 +128,60 @@ A universal Time,
 
 Your Bizzare Adventure,
 
-ZOO
+ZOO,
+3-2-1 Blast Off Simulator,
+
+Anime Battle Arena,
+
+Bad Business,
+
+Boxing League,
+
+Car Dealership Tycoon,
+
+Deathrun,
+
+Defender's Depot,
+
+Deliveryman Simulator,
+
+Demonfall,
+
+Driving Simulator,
+
+Eating Simulator,
+
+Emergency Response: Liberty County,
+
+Epic Minigames,
+
+Fall of Hell,
+
+Fishing Simulator,
+
+Giant Simulator,
+
+Gym Tycoon,
+
+Hide and Seek Extreme,
+
+Islands,
+
+Mall Tycoon,
+
+Millionaire Empire Tycoon,
+
+Muscle Legends,
+
+Pet Fighters Simulator,
+
+Restaurant Tycoon 2,
+
+Super Power Fighting Simulator,
+
+Super Strong Simulator,
+
+Survive the Night
 
 _KEY: https://discord.gg/sN3J2QApwA_
 
