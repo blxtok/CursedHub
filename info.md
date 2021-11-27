@@ -1,6 +1,6 @@
-*Cursed Hub Version 1.0.7a*
+***Cursed Hub Version 1.0.7a***
 
-Supported Games:
+**Supported Games:**
 
 Pet Simulator X,
 
