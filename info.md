@@ -1,4 +1,4 @@
-*Cursed Hub Version 1.0.6c*
+*Cursed Hub Version 1.0.7a*
 
 Supported Games:
 
@@ -181,7 +181,55 @@ Super Power Fighting Simulator,
 
 Super Strong Simulator,
 
-Survive the Night
+Survive the Night,
+
+Anime Dimensions Simulator,
+
+A Wolf Or Other,
+
+Big City Tycoon,
+
+Bulked Up,
+
+Dalgona Simulator,
+
+Electric State Dark RP,
+
+D-DAY,
+
+Dragon Adventures,
+
+Dragon Blox,
+
+Driving Empire,
+
+Energy Assault,
+
+Flood Escape 2,
+
+Grow Up Simulator,
+
+Hole in The Wall,
+
+Livetopia,
+
+Mighty Omega,
+
+Money Simulator X,
+
+Naval Warfare,
+
+Pet Swarm Simulator,
+
+Rise of Nations,
+
+Saitamania,
+
+Sharkbite,
+
+Super Doomspire,
+
+Tropical Resort Tycoon
 
 _KEY: https://discord.gg/sN3J2QApwA_
 
