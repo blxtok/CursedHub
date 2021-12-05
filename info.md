@@ -16,6 +16,8 @@ Anime Fighting Simulator,
 
 Arsenal,
 
+Shindo Life,
+
 Welcome to Bloxburg,
 
 Brookhaven RP,
